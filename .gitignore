@@ -1,0 +1,10 @@
+/node_modules
+/public/storage
+/vendor
+/.phpunit.result.cache
+/.idea
+/.env
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
